@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Block
+  - PourPFMouvement
+  - Mort
+  - ObjetAPrendre
+  - Ennemie
+  - Socle
+  - Diamant1
+  - Buche
+  - PieceRouge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sol
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "Arri\xE8re-plan"
+    uniqueID: 1767647975
+    locked: 0
+  - name: Moyen plan
+    uniqueID: 3636505201
+    locked: 0
+  - name: Gros plan
+    uniqueID: 868191007
+    locked: 0
+  - name: Avant-plan
+    uniqueID: 1589303919
+    locked: 0
